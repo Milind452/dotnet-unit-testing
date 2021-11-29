@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "XnopiSPMfbAmpHPsWYYiToDNfEbH0X787Ss4N1S4GT3my2huUF1AmB3uTkt7wTzniwTgE4/0wn0gNjldlqe8kw==",
+  "dgSpecHash": "b1/FtGCay6TSPzSXDfrmf9l1n4vPnZ5zvOje2UqagG9gyRHRy29fr3nXA+PNDe2zN4RQHbHCAJU/pyU1sIQ6wg==",
   "success": true,
   "projectFilePath": "C:\\Users\\milind.mohapatra\\Documents\\DotNet Training\\unit-testing\\unit-testing-sample\\unit-testing-sample\\unit-testing-sample.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\milind.mohapatra\\.nuget\\packages\\coverlet.collector\\3.0.2\\coverlet.collector.3.0.2.nupkg.sha512",
+    "C:\\Users\\milind.mohapatra\\.nuget\\packages\\coverlet.msbuild\\3.1.0\\coverlet.msbuild.3.1.0.nupkg.sha512",
     "C:\\Users\\milind.mohapatra\\.nuget\\packages\\microsoft.codecoverage\\16.9.4\\microsoft.codecoverage.16.9.4.nupkg.sha512",
     "C:\\Users\\milind.mohapatra\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",
     "C:\\Users\\milind.mohapatra\\.nuget\\packages\\microsoft.net.test.sdk\\16.9.4\\microsoft.net.test.sdk.16.9.4.nupkg.sha512",
